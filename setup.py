@@ -94,12 +94,12 @@ def find_package_data(
     return out
 
 
-PACKAGE = "libpythonpro"
-NAME = "libpythonpro-srs"
+PACKAGE = "libpythonsrs"
+NAME = PACKAGE
 DESCRIPTION = "Módulo para exemplificar construção de projetos Python no curso PyTools"
 AUTHOR = "Cicero S.Soares"
 AUTHOR_EMAIL = "ozctkz@gmail.com"
-URL = "https://github.com/Cicerossoares/libpythonpro"
+URL = "https://github.com/Cicerossoares/libpythonsrs"
 VERSION = __import__(PACKAGE).__version__
 
 setup(
