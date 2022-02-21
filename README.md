@@ -3,6 +3,7 @@ Modulo para construção de projeto no curso Pytools
 Nesse curso é ensinado a contribuiçao para projetos em codigo aberto
 Suporta versao 3 de python
 
+[![Build Status](https://app.travis-ci.com/Cicerossoares/libpythonsrs.svg?branch=main)](https://app.travis-ci.com/Cicerossoares/libpythonsrs)
 [![Updates](https://pyup.io/repos/github/Cicerossoares/libpythonsrs/shield.svg)](https://pyup.io/repos/github/Cicerossoares/libpythonsrs/)
 [![Python 3](https://pyup.io/repos/github/Cicerossoares/libpythonsrs/python-3-shield.svg)](https://pyup.io/repos/github/Cicerossoares/libpythonsrs/)
 
